@@ -1,2 +1,4 @@
 # CS147-highfi-prototype
 Assignment 8 from CS 147: AmiGos app HiFi Prototype (website link: https://hci.stanford.edu/courses/cs147/2022/wi/projects/HybridCollaboration/AmiGos/)
+
+This is the repository where the code for the high-fi prototype of the app AmiGos is stored. All code relevant to the UI and functionality of the app can be found in HiFi Tabs. We have used React Native as a platform upon which to build our app, making use of many typescript files, node, and a template from Expo to help us get started and to allow us to easily check our development process both through the mobile app Expo Go and the Expo iPhone simulator for desktop. All the information the user sees on each of our screens is stored in the folder "screens", and most of the other folders contain files referenced in the screen files to better help with decomposition.
